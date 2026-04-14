@@ -12,4 +12,3 @@ ClavisMacro
 
 
 © 2026 AleCSerpas. All rights reserved.
-Portfolio project — viewing permitted, reuse requires permission.
